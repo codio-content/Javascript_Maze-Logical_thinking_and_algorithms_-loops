@@ -3,7 +3,7 @@ Now comes a really tricky challenge. Don't worry too much if you cannot make thi
 
 We want you to modify the code so you end up with the following wall arrangement.
 
-![](.guides/img/diag-challenge.png)
+![](.guides/img/v-challenge.png)
 
 There are various ways you could tackle. We suggest the following ...
 
@@ -13,7 +13,7 @@ There are various ways you could tackle. We suggest the following ...
 
 |||
 
-|||teacher
+|||guidance
 ```javascript
 createEmptyMaze()
 

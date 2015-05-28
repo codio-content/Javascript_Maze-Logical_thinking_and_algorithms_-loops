@@ -6,3 +6,15 @@ On the left is some code we want you to modify. Do the following ...
 
 |||
 
+|||guidance
+## Solution
+```javascript
+createEmptyMaze()
+
+for ( counter=0; counter<10; counter=counter+1) {
+  addWall()
+}
+
+addPlayer()
+```
+|||
