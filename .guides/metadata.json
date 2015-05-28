@@ -1,0 +1,369 @@
+{
+ "sections": [
+  {
+   "id": "944a307-5fce-7f59-2899-6ac756ada9b6",
+   "title": "Loops",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "3-cell-tree",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Loops-944a.md"
+  },
+  {
+   "id": "c80c6bd8-9dd9-46e9-598b-8f3cc6a78f4",
+   "title": "What is a loop",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-1.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-1",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/What-is-a-loop-c80c.md"
+  },
+  {
+   "id": "d94547fe-9eea-585a-be64-3f468875b1ae",
+   "title": "Creating 10 walls",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-2.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-2",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Creating-10-walls-d945.md"
+  },
+  {
+   "id": "48cd978e-70b-326c-3458-9bafcd981224",
+   "title": "A loop flowchart",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-2.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "public/flow/js-2.flow",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-2",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/A-loop-flowchart-48cd.md"
+  },
+  {
+   "id": "4a6c9ae8-1429-a3c-d354-c8e8fdd3f9ef",
+   "title": "For loop",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-3.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-3",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/For-loop-4a6c.md"
+  },
+  {
+   "id": "f892e2ad-f8b8-6d6c-d0d5-17a0203414d8",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-4.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-4",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-f892.md"
+  },
+  {
+   "id": "14143e2d-adc-e3a3-6506-4b34a4232dba",
+   "title": "Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-5.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-5",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-1414.md"
+  },
+  {
+   "id": "1b8eab9b-262e-2afa-dded-35a83b3e7767",
+   "title": "Challenge with If",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-6.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-6",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-with-If-1b8e.md"
+  },
+  {
+   "id": "b00fc514-5707-853a-32dd-6d9d1574e00",
+   "title": "For loop variations",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-7.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-7",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/For-loop-variations-b00f.md"
+  },
+  {
+   "id": "e9a58fdc-38cf-2a86-f935-9e782c1f9aeb",
+   "title": "Increasing counter values",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-8.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-8",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Increasing-counter-values-e9a5.md"
+  },
+  {
+   "id": "f7b51832-55a2-1e44-b0c7-67d5c2845c1",
+   "title": "Horizontal line of walls",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-9.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-9",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Horizontal-line-of-walls-f7b5.md"
+  },
+  {
+   "id": "cecd12ea-5571-a1c2-a4dd-7176320fbba9",
+   "title": "Diagonal Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-10.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-10",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Diagonal-Challenge-cecd.md"
+  },
+  {
+   "id": "fcc2d1c4-ffc1-e4a3-1666-c2bbd48357dc",
+   "title": "'V' Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-11.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-11",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/-V--Challenge-fcc2.md"
+  },
+  {
+   "id": "c01ef418-a72a-9333-5fe7-87c13550edb9",
+   "title": "Breaking out",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-12.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-12",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Breaking-out-c01e.md"
+  },
+  {
+   "id": "a1203001-12c2-2891-1977-864b3d3b964c",
+   "title": "Nested Loops",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "public/js/js-13.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: https://{{domain9500}}/js-13",
+     "panel": 1,
+     "action": "open"
+    }
+   ],
+   "layout": "",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Nested-Loops-a120.md"
+  },
+  {
+   "id": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
+   "title": "That's all folks",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/New-Section-16-2d85.md"
+  }
+ ],
+ "theme": "paper",
+ "scripts": []
+}
