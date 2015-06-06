@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "3-cell-tree",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Loops-944a.md"
@@ -361,7 +361,7 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/New-Section-16-2d85.md"
+   "content-file": ".guides/content/That-s-all-folks-2d85.md"
   }
  ],
  "theme": "paper",
