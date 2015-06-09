@@ -9,7 +9,7 @@
      "action": "close"
     }
    ],
-   "layout": "3-cell",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Loops-944a.md"
@@ -33,7 +33,7 @@
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "3-cell",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-is-a-loop-c80c.md"

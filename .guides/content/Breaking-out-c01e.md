@@ -1,7 +1,7 @@
 The normal way to end a loop is when the condition is not met. However, there can be situations where you want to exit the loop that do not make sense (or end up complicating) the main condition test.
 
 ## break
-Javascript offers a `break` statement that lets you break out of the whenever you want to.
+Javascript offers a `break` statement that lets you break out of the loop whenever you want to.
 
 On the left is some code that illustrates this. It is not a particularly natural example, but it does show how this works.
 
