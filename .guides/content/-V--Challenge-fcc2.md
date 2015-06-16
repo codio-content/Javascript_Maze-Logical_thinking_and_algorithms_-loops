@@ -11,6 +11,8 @@ There are various ways you could tackle. We suggest the following ...
 - Use a second variable to store and adjust the Y coordinate
 - Decrement this second variable at the end of each loop so the Y coodinate decreases
 
+{Check it!!|custom}(js-11)
+
 |||
 
 |||guidance

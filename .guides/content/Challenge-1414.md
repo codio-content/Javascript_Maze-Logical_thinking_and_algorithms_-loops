@@ -5,6 +5,8 @@ On the left is some code. Do the following ...
 1. Create another `for` loop that adds 3 energy stores using `addEnergy()`
 1. Read the advice below on copying and pasting to speed things up.
 
+{Check it!!|custom}(js-5)
+
 |||
 
 ## Advice : Copy and paste

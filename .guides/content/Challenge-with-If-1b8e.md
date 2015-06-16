@@ -7,6 +7,8 @@ However, we still want to add all 10 walls.
 
 To do this, you will need to insert an `if` statement that checks the `counter` and only adds an energy store with `addEnergy()` based on the current counter value.
 
+{Check it!!|custom}(js-6)
+
 |||
 
 |||guidance

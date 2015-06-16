@@ -5,6 +5,8 @@ We want you do modify the code so you get the following result.
 
 ![](.guides/img/diag-challenge.png)
 
+{Check it!!|custom}(js-10)
+
 |||
 
 |||guidance
