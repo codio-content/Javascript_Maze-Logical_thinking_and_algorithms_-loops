@@ -1,4 +1,4 @@
-On the left side is some code that showw a few more tips and tricks with loops.
+On the left side is some code that shows a few more tips and tricks with loops.
 
 ## Counter variable names
 Programmers often use `i` and `ctr` as variable names for a counter. `i` is used as an abbreviation for 'index', which will make sense later on when we introduce arrays.
