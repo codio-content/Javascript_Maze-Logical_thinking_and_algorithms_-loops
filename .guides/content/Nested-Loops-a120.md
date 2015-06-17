@@ -5,7 +5,7 @@ It means we are including one thing inside another statement of the same type.
 Look at the code for a good example.
 
 ## Explanation
-We will get to use these more in the next Unit but it is ineresting to show you some of the power of loops now.
+We will get to use these more in the next Unit but it is interesting to show you some of the power of loops now.
 
 1. We start with a loop that handles the X coordinate. It will start with an X value of 2 and go from there.
 1. With X=2, we then immediately hit another loop statement within it. This handles the Y coordinate and starts at Y=2.

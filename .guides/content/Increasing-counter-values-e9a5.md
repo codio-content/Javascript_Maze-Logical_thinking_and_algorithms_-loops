@@ -9,7 +9,7 @@ This is a really useful shorthand way of writing `i = i + 1` or `ctr = ctr + 1`.
 - `variable--` decrements (decreases the value of `variable` by 1)
 
 ## ctr += 10
-The `+=` operator adds 10 to the `ctr` variable, so it is the same as writing `ctr = ctr + 10`.
+The `+=` operator adds a value (10 in this example) to the `ctr` variable, so it is the same as writing `ctr = ctr + 10`.
 
 The reason for this is that it makes the code a little shorter and easier to read.
 

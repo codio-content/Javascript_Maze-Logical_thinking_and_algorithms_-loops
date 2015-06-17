@@ -13,7 +13,7 @@ for ( [Initialisation]; [Condition]; [End of loop instructions] )
 The first part of the `for` instruction, before the first `;` handles any initialisation you need to do. In our case, it initialises `counter` to be `0`.
 
 ### Condition
-The second part of the `for` instruction (after the first `;` and before the second `;`) is the condition. So, `counter = counter + 1`, exactly the same as we had for our `while` loop condition.
+The second part of the `for` instruction (after the first `;` and before the second `;`) is the condition. So, `counter < 10`, exactly the same as we had for our `while` loop condition.
 
 ### End of loop instructions
 The final part, afer the second `;` is where you can put instructions that should be executed at the end of the loop block. So, it is adding `1` to our `counter` variable.
