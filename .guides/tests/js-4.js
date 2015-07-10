@@ -1,7 +1,7 @@
 
 $.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_=' + Date.now())
 .done(function (script, status) {
-  if(player && getEnergyCount() == 5 && getWallCount() == 8) {
+  if(player && getEnergyCount() == 8 && getWallCount() == 8) {
     codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, 'Well done!');
   }
   else {
