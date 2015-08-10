@@ -1,11 +1,5 @@
-|||challenge
-On the left is some code we want you to modify. Do the following ...
 
-1. Modify the loop so it only adds 8 walls.
-1. Add an instruction to the same loop so it also adds 8 energy stores. The function to use is `addEnergy()`
-
-{Check it!!|custom}(js-4)
-|||
+{Check It!|assessment}(test-2970533750)
 
 |||guidance
 ## Solution

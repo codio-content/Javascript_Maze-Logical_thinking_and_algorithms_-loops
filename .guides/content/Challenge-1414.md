@@ -1,13 +1,5 @@
-|||challenge
-On the left is some code. Do the following ...
 
-1. Modify the loop so it only adds 6 walls.
-1. Create another `for` loop that adds 3 energy stores using `addEnergy()`
-1. Read the advice below on copying and pasting to speed things up.
-
-{Check it!!|custom}(js-5)
-
-|||
+{Check It!|assessment}(test-679175048)
 
 ## Advice : Copy and paste
 It is annoying having to write out all your code from scratch when you have some similar code you can copy, paste and then edit. 

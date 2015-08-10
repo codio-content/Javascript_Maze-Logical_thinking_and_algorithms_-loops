@@ -1,22 +1,45 @@
 
-$.getScript(window.location.origin + '/public/js/' + window.testEnv.cmd + '.js?_=' + Date.now())
-.done(function (script, status) {
-  if(player && mazeWidth > 9 && mazeHeight > 5 && 
-     tiles[2][2].type == 'wall' &&
-     tiles[3][3].type == 'wall' &&
-     tiles[4][4].type == 'wall' &&
-     tiles[5][5].type == 'wall' &&
-     tiles[6][5].type == 'wall' &&
-     tiles[7][4].type == 'wall' &&
-     tiles[8][3].type == 'wall' &&
-     tiles[9][2].type == 'wall') {
-    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.SUCCESS, 'Well done!');
+var fs = require('fs');
+
+var maze = false;
+var player = false;
+var walls = 0;
+var energies = 0;
+
+global.addWall = function(x, y) {
+  if((x == 2 && y == 2) ||
+     (x == 3 && y == 3) ||
+     (x == 4 && y == 4) ||
+     (x == 5 && y == 5) ||
+     (x == 6 && y == 5) ||
+     (x == 7 && y == 4) ||
+     (x == 8 && y == 3) ||
+     (x == 9 && y == 2)) {
+    walls++;
   }
-  else {
-    codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.FAILURE, 'Not quite right, try again!');
+}
+
+
+global.createEmptyMaze = function() {
+  maze = true;
+}
+
+global.addPlayer = function() {
+  player = true;
+}
+
+try {
+  var data = fs.readFileSync('/home/codio/workspace/public/js/js-11.js', 'utf8');
+  eval(data);
+   
+  if(maze && player && walls == 8) {   
+    process.stdout.write('Well done!');  
+    process.exit(0);
   }
-})
-.fail(function (jqxhr, settings, exception) {
-  console.log(exception);
-  codio.setButtonValue(window.testEnv.id, codio.BUTTON_STATE.INVALID, exception.message); 
-});
+}
+catch(e) {
+  
+}
+
+process.stdout.write('Not quite right, try again!');  
+process.exit(1);

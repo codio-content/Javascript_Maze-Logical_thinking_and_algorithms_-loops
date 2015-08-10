@@ -12,7 +12,9 @@
    "layout": "1-panel",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Loops-944a.md"
+   "content-file": ".guides/content/Loops-944a.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "c80c6bd8-9dd9-46e9-598b-8f3cc6a78f4",
@@ -36,7 +38,9 @@
    "layout": "3-cell",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/What-is-a-loop-c80c.md"
+   "content-file": ".guides/content/What-is-a-loop-c80c.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "d94547fe-9eea-585a-be64-3f468875b1ae",
@@ -60,7 +64,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Creating-10-walls-d945.md"
+   "content-file": ".guides/content/Creating-10-walls-d945.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "48cd978e-70b-326c-3458-9bafcd981224",
@@ -89,7 +95,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/A-loop-flowchart-48cd.md"
+   "content-file": ".guides/content/A-loop-flowchart-48cd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "4a6c9ae8-1429-a3c-d354-c8e8fdd3f9ef",
@@ -113,7 +121,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/For-loop-4a6c.md"
+   "content-file": ".guides/content/For-loop-4a6c.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "f892e2ad-f8b8-6d6c-d0d5-17a0203414d8",
@@ -137,7 +147,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-f892.md"
+   "content-file": ".guides/content/Challenge-f892.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "14143e2d-adc-e3a3-6506-4b34a4232dba",
@@ -161,7 +173,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-1414.md"
+   "content-file": ".guides/content/Challenge-1414.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "1b8eab9b-262e-2afa-dded-35a83b3e7767",
@@ -185,7 +199,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Challenge-with-If-1b8e.md"
+   "content-file": ".guides/content/Challenge-with-If-1b8e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "b00fc514-5707-853a-32dd-6d9d1574e00",
@@ -209,7 +225,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/For-loop-variations-b00f.md"
+   "content-file": ".guides/content/For-loop-variations-b00f.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "e9a58fdc-38cf-2a86-f935-9e782c1f9aeb",
@@ -233,7 +251,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Increasing-counter-values-e9a5.md"
+   "content-file": ".guides/content/Increasing-counter-values-e9a5.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "f7b51832-55a2-1e44-b0c7-67d5c2845c1",
@@ -257,7 +277,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Horizontal-line-of-walls-f7b5.md"
+   "content-file": ".guides/content/Horizontal-line-of-walls-f7b5.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "cecd12ea-5571-a1c2-a4dd-7176320fbba9",
@@ -281,7 +303,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Diagonal-Challenge-cecd.md"
+   "content-file": ".guides/content/Diagonal-Challenge-cecd.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "fcc2d1c4-ffc1-e4a3-1666-c2bbd48357dc",
@@ -305,7 +329,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/-V--Challenge-fcc2.md"
+   "content-file": ".guides/content/-V--Challenge-fcc2.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "c01ef418-a72a-9333-5fe7-87c13550edb9",
@@ -329,7 +355,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Breaking-out-c01e.md"
+   "content-file": ".guides/content/Breaking-out-c01e.md",
+   "chapter": false,
+   "reset": []
   },
   {
    "id": "a1203001-12c2-2891-1977-864b3d3b964c",
@@ -353,7 +381,9 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Nested-Loops-a120.md"
+   "content-file": ".guides/content/Nested-Loops-a120.md",
+   "chapter": true,
+   "reset": []
   },
   {
    "id": "2d8518b7-b528-cdfc-9c1e-818ff065d0a",
@@ -361,13 +391,13 @@
    "files": [],
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/That-s-all-folks-2d85.md"
+   "content-file": ".guides/content/That-s-all-folks-2d85.md",
+   "chapter": false,
+   "reset": []
   }
  ],
- "theme": "paper",
+ "theme": "light",
  "scripts": [
-  "https://code.jquery.com/jquery-2.1.4.min.js",
-  "https://mazegame.codio.com/game.js",
-  ".guides/test_static.js"
+  "https://code.jquery.com/jquery-2.1.4.min.js"
  ]
 }
