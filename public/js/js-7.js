@@ -2,7 +2,7 @@
 createEmptyMaze()
 
 for ( i=0; i<5; i=i+1) {
-  addWall() 
+  addWall()
 }
 
 for ( ctr=0, msg=''; ctr<4; addMonster(), ctr=ctr+1) {
